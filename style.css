@@ -1,0 +1,76 @@
+.art{
+   
+    border-radius: 15px 0px 15px 0px;
+    box-shadow: 5px 5px 20px lightgray;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    
+}
+.nav-var{
+    margin-left: 550px;
+    
+}
+.col-md-6{
+    padding-left: 150px;
+}
+.carousel{
+    background-color: whitesmoke;
+}
+.by-now{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 8px;
+}
+.carousel-item{
+    padding: 10px;
+    
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.card-body{
+    text-align: center;
+}
+.card-group h5{
+    text-align: center;
+}
+.card{
+    border-radius: 10px  ;
+    box-shadow: 5px 5px 20px lightgray;
+    
+    padding: 10px;
+    
+}
+.cbody2{
+    border-radius: 10px;
+}
+.card-group{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.See-all{
+    color: orange;
+}
+.Categories img{
+    width: 100%;
+}
+
+.Categories h3{
+    border-bottom: 5px solid orange;
+    border-radius: 4px;
+    margin-bottom: 20px;
+   
+}
+
+.Categories h6{
+    text-align: center;
+}
+.Categories{
+    height: 300px;
+}
+.margin{
+    margin-top: 20px;
+}
