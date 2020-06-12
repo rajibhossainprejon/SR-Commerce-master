@@ -58,11 +58,16 @@
     width: 100%;
 }
 
-.Categories h3{
-    border-bottom: 5px solid orange;
-    border-radius: 4px;
-    margin-bottom: 20px;
-   
+.Categories ::after {
+    position: absolute;
+    content: " ";
+    height: 7px;
+    width: 80px;
+   background-image: linear-gradient(to bottom, #FFBB24 0% ,#FFA331 100%);
+    border-radius: 10px;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 .Categories h6{
